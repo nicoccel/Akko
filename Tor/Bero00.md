@@ -20,7 +20,7 @@ For configure the enviroment :
 
 ### Unix Linux macOS
 
-1. ` ~/Library/Application Support/TorBrowser-Data/Tor/torrc `
+1. ` /opt/homebrew/etc/tor/torrc `
 2. Add on file :  
 ` ControlPort 9051 `  
 ` CookieAuthentication 1 `
