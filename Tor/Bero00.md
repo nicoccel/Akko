@@ -34,7 +34,6 @@ For configure the enviroment :
       ` CookieAuthentication 0 `  
       ` RunAsDaemon 1 `  
       ` SocksPort 9050 `  
-      ` Log notice file /usr/local/var/log/tor/notices.log `
 5. Save the file
 
 ### Windows NT
