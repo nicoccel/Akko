@@ -1,6 +1,6 @@
 # Tor
 
-skeleton
+Skeleton
 
 ## Installation
 
