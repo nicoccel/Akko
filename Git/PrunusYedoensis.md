@@ -6,7 +6,7 @@ Dedicated to Git.
 
 Use the file to download all the packages you need at once. To do this, run the following command :
 
-` pip install - < requirements.txt `
+` pip install -r requirements.txt `
 
 or for ` macOS `
 
