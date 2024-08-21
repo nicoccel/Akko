@@ -8,3 +8,10 @@ All command x pthon and pip
 
  For remove file on pip chache use
  `pip cache purge`
+
+ ### pip info
+Check path  
+ ` which pip `  
+
+Check version  
+` pip --version `  
