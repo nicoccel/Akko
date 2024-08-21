@@ -4,6 +4,16 @@
 
 All command x pthon and pip
 
+### Install package
+
+Use the file to download all the packages you need at once. To do this, run the following command :
+
+` pip install -r requirements.txt `
+
+or for ` macOS `
+
+` pip3 install -r requirements.txt `
+
 ### Remove pip cache
 
  For remove file on pip chache use
