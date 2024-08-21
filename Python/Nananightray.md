@@ -16,8 +16,13 @@ or for ` macOS `
 
 ### Remove pip cache
 
- For remove file on pip chache use
+ For remove file on pip chache use  
  `pip cache purge`
+
+### Remove pip package
+
+For remove a specific package  
+` pip uninstall package_name `  
 
  ### pip info
 Check path  
