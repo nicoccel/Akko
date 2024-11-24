@@ -1,4 +1,4 @@
-# nananightray x Python
+# nananightray x PIP
 
 ## Command
 
@@ -16,17 +16,25 @@ or for ` macOS `
 
 ### Remove pip cache
 
- For remove file on pip chache use  
- `pip cache purge`
+For remove file on pip chache use  
+`pip cache purge`
 
 ### Remove pip package
 
 For remove a specific package  
-` pip uninstall package_name `  
+` pip uninstall package_name `
 
- ### pip info
+### Remove all package
+
+[DOC](https://stackoverflow.com/a/11250821/21670678)
+
+On Unix
+`pip freeze | xargs pip uninstall -y`
+
+### pip Info
+
 Check path  
- ` which pip `  
+` which pip `  
 
 Check version  
-` pip --version `  
+` pip --version `

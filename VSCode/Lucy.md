@@ -1,4 +1,4 @@
-# VSCode
+# Lucy x VSCode
 
 I Really Want to Stay At Your House
 
