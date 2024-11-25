@@ -31,6 +31,9 @@ For remove a specific package
 On Unix
 `pip freeze | xargs pip uninstall -y`
 
+On Windows
+`pip freeze --exclude-editable | ForEach-Object { pip uninstall -y $_ }`
+
 ### pip Info
 
 Check path  
