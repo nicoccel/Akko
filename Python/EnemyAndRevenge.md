@@ -6,3 +6,9 @@ Mista Playa
 
 Check version
 `poetry --version`
+
+Install
+`pipx install poetry`
+
+Remove
+`pipx uninstall poetry`
