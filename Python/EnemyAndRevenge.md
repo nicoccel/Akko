@@ -15,20 +15,23 @@ Remove
 
 ## Use
 
-Start config file **pyproject.toml**
-`poetry init` or `poetry shell`
+Creaate new project from 0
+`poetry new ...`
 
-Add dependency
+Start config file **pyproject.toml** for exit project
+`poetry init` 
+
+Add dependence
 `poetry add ...`
 
-Remove dependency
+Remove dependence
 `poetry remove ...`
 
 Generate file
 `poetry install`
 
 Active env
-`poetry run ./manage.py`
+`poetry run ./manage.py` or `poetry shell`
 
 ## Settings
 
