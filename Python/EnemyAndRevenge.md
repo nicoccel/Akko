@@ -19,7 +19,7 @@ Creaate new project from 0
 `poetry new ...`
 
 Start config file **pyproject.toml** for exit project
-`poetry init` 
+`poetry init`
 
 Add dependence
 `poetry add ...`
@@ -41,4 +41,3 @@ View configs
 ### Change parameter
 
 `poetry config virtualenvs.in-project true`
-
