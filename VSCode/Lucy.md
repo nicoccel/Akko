@@ -17,7 +17,9 @@ Preferences that can be inserted in the `settings.json` file:
 - `Flake8(E501)`
 
     ```json
-    "flake8.args": [ "--max-line-length=80", ]
+    "flake8.args": [ 
+        "--max-line-length=80"
+    ]
     ```
 
 - Module not found `wx`

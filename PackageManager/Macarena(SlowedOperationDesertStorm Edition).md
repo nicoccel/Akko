@@ -4,11 +4,9 @@ Elliot Sutton
 
 ## Info
 
-All package
-`brew list`
+All package `brew list`
 
-Info package
-`brew info ...`
+Info package `brew info ...`
 
 ## Remove package
 

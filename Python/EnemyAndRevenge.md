@@ -4,39 +4,29 @@ Mista Playa
 
 ## Info
 
-Check version
-`poetry --version`
+Check version `poetry --version`
 
-Install
-`pipx install poetry`
+Install `pipx install poetry`
 
-Remove
-`pipx uninstall poetry`
+Remove `pipx uninstall poetry`
 
 ## Use
 
-Creaate new project from 0
-`poetry new ...`
+Creaate new project from 0 `poetry new ...`
 
-Start config file **pyproject.toml** for exit project
-`poetry init`
+Start config file **pyproject.toml** for exit project `poetry init`
 
-Add dependence
-`poetry add ...`
+Add dependence `poetry add ...`
 
-Remove dependence
-`poetry remove ...`
+Remove dependence `poetry remove ...`
 
-Generate file
-`poetry install`
+Generate file `poetry install`
 
-Active env
-`poetry run ./manage.py` or `poetry shell`
+Active env `poetry run ./manage.py` or `poetry shell`
 
 ## Settings
 
-View configs
-`poetry config --list`
+View configs `poetry config --list`
 
 ### Change parameter
 

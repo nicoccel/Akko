@@ -6,7 +6,8 @@ All command x pthon and pip
 
 ### Install package
 
-Use the file to download all the packages you need at once. To do this, run the following command :
+Use the file to download all the packages you need at once.  
+To do this, run the following command :
 
 ` pip install -r requirements.txt `
 
@@ -16,13 +17,11 @@ or for ` macOS `
 
 ### Remove pip cache
 
-For remove file on pip chache use  
-`pip cache purge`
+For remove file on pip chache use `pip cache purge`
 
 ### Remove pip package
 
-For remove a specific package  
-` pip uninstall package_name `
+For remove a specific package ` pip uninstall package_name `
 
 ### Remove all package
 
@@ -36,8 +35,6 @@ On Windows
 
 ### pip Info
 
-Check path  
-` which pip `  
+Check path ` which pip `  
 
-Check version  
-` pip --version `
+Check version ` pip --version `
