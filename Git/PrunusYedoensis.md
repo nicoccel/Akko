@@ -36,7 +36,7 @@ To change the credentials to use for Git commits, go to the following path...
     ```git
     git add -A
     git commit -m "Text..."
-    git push -u origin master
+    git push -u origin main
     ```
 
 - Squash
